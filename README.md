@@ -69,7 +69,7 @@
 - Route53
 - Cloudfront
 
-![Architecture1!](images/Architecture1.png)
+![Architecture1!](images/Architecture1.jpg)
 
 ## Flow of Execution
 1. Login to AWS Account
